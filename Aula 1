@@ -1,0 +1,5 @@
+X = {"fabricante" : " Volksvagen" , "modelo : "fusca" : "ano" : 1980} #
+    Criando um dicionário de nome x com três pares do chaprintve ; valo
+print(x) # Exibe o dicionário compleo.
+print(x["modelo"] # Exibe  o valor fusca , pois é o valor armazenado na chave modelo.
+print(x["ano"]) # Exibindo o valor 1989 , pois é o valoir armazenado na chave ano
